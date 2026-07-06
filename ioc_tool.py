@@ -6,7 +6,7 @@ import requests
 from dotenv import load_dotenv
 
 # -----------------------------
-# Load API key securely
+#  API key secured
 # -----------------------------
 load_dotenv()
 VT_API_KEY = os.getenv("VT_API_KEY")
