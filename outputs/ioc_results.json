@@ -1,0 +1,28 @@
+{
+    "ioc_results": {
+        "ips": [
+            "185.143.223.45"
+        ],
+        "urls": [
+            "http://malicious-site.com/login"
+        ],
+        "domains": [
+            "fake-mail.com",
+            "malicious-site.com"
+        ],
+        "emails": [
+            "attacker@fake-mail.com"
+        ],
+        "hashes": {
+            "md5": [
+                "d41d8cd98f00b204e9800998ecf8427e"
+            ],
+            "sha1": [],
+            "sha256": []
+        }
+    },
+    "risk_analysis": {
+        "risk_score": 10,
+        "risk_level": "HIGH"
+    }
+}

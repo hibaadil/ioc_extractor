@@ -1,0 +1,48 @@
+Subject: Suspicious Login Activity Detected
+
+Security Notification
+
+Alert Type:
+Unusual Authentication Activity
+
+User Account:
+user@example.com
+
+Event Time:
+2026-07-06 03:14 UTC
+
+Authentication Result:
+Successful login after multiple failed attempts
+
+Failed Login Attempts:
+7
+
+Source IP Address:
+103.98.76.45
+
+Source Location:
+Unknown
+(VPN/Proxy detected)
+
+Expected User Location:
+United Arab Emirates
+
+User Agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+Device:
+Unknown Windows Device
+
+Risk Indicators:
+- New device detected
+- Impossible travel behavior detected
+- Multiple failed authentication attempts
+- Login from anonymized network
+
+Additional Verification Required:
+http://account-security-verify-login.com
+
+Recommended Action:
+- Verify user identity
+- Reset password if unauthorized
+- Review authentication logs

@@ -1,0 +1,31 @@
+Subject: Urgent Security Alert - Account Verification Required
+
+From: security-team@account-support-alerts.com
+
+Dear User,
+
+Your account has been suspended due to unusual activity detected on your account.
+
+We detected a login attempt from an unknown location. To restore access, please verify your identity immediately.
+
+Verification link:
+http://secure-login-account-verification.com/login
+
+Associated server IP:
+185.143.223.45
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+User information required:
+- Username
+- Password
+- Account verification details
+
+Attachment:
+Account_Verification_Form.pdf
+
+Contact Support:
+security-team@account-support-alerts.com
+
+Security Reference:
+Ticket ID: SEC-2026-0712

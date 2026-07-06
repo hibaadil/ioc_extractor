@@ -1,0 +1,36 @@
+{
+    "classification": {
+        "score": 10,
+        "label": "MALWARE"
+    },
+    "ioc_results": {
+        "ips": [
+            "185.143.223.45"
+        ],
+        "urls": [
+            "http://malware-update-service.com/payload/update.bin"
+        ],
+        "domains": [
+            "update.bin",
+            "malware-update-service.com",
+            "john.smith"
+        ],
+        "emails": [],
+        "hashes": {
+            "md5": [
+                "098f6bcd4621d373cade4e832627b4f6"
+            ],
+            "sha1": [],
+            "sha256": [
+                "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
+            ]
+        }
+    },
+    "virustotal": {
+        "185.143.223.45": {
+            "malicious": 0,
+            "suspicious": 1,
+            "harmless": 55
+        }
+    }
+}
